@@ -1,0 +1,116 @@
+id 15.08.2019 21:13:43	id notepad	id 13732	has been killed
+id 15.08.2019 21:13:43	id notepad	id 13624	has been killed
+id 15.08.2019 21:13:43	id notepad	id 1132	has been killed
+id 15.08.2019 21:13:43	id notepad	id 10524	has been killed
+id 15.08.2019 21:14:38	id notepad	id 4240	has been killed
+id 15.08.2019 21:14:44	id notepad	id 5516	has been killed
+id 15.08.2019 21:14:44	id notepad	id 10208	has been killed
+id 15.08.2019 21:14:44	id notepad	id 14004	has been killed
+id 15.08.2019 21:15:06	id notepad	id 8228	has been killed
+id 15.08.2019 21:15:52	id notepad	id 8980	has been killed
+id 15.08.2019 21:15:52	id notepad	id 12808	has been killed
+id 15.08.2019 21:15:52	id notepad	id 13100	has been killed
+
+16.08.2019 21:17:57	 notepad	id 13740	has been killed
+16.08.2019 21:17:57	 notepad	id 4992	has been killed
+16.08.2019 21:17:57	 notepad	id 2792	has been killed
+16.08.2019 21:17:57	 notepad	id 10044	has been killed
+16.08.2019 21:17:57	 notepad	id 5620	has been killed
+
+16.08.2019 21:18:09	 firefox	id 13116	has been killed
+16.08.2019 21:18:09	 firefox	id 4000	has been killed
+16.08.2019 21:18:09	 firefox	id 11936	has been killed
+16.08.2019 21:18:09	 firefox	id 13160	has been killed
+16.08.2019 21:18:09	 firefox	id 11464	has been killed
+16.08.2019 21:18:09	 firefox	id 4532	has been killed
+16.08.2019 21:18:09	 firefox	id 1740	has been killed
+16.08.2019 21:18:09	 firefox	id 1044	has been killed
+16.08.2019 21:18:09	 firefox	id 12252	has been killed
+16.08.2019 21:18:09	 firefox	id 14264	has been killed
+16.08.2019 21:18:09	 firefox	id 7580	has been killed
+
+
+16.08.2019 21:20:43	 firefox	id 4720	has been killed
+16.08.2019 21:20:43	 firefox	id 1140	has been killed
+16.08.2019 21:20:43	 firefox	id 13856	has been killed
+
+16.08.2019 21:22:13	 explorer	id 6376	has been killed
+
+16.08.2019 21:23:04	 explorer	id 6804	has been killed
+16.08.2019 21:23:16	 explorer	id 12372	has been killed
+16.08.2019 21:23:28	 explorer	id 7628	has been killed
+
+16.08.2019 21:25:56	 explorer	id 9848	has been killed
+
+16.08.2019 21:26:59	 explorer	id 13704	has been killed
+
+16.08.2019 21:29:15	 explorer	id 9208	has been killed
+
+16.08.2019 21:30:16	 firefox	id 3372	has been killed
+16.08.2019 21:30:16	 firefox	id 12596	has been killed
+16.08.2019 21:30:16	 firefox	id 7228	has been killed
+16.08.2019 21:30:16	 firefox	id 12348	has been killed
+16.08.2019 21:30:16	 firefox	id 3240	has been killed
+
+16.08.2019 21:32:22	 firefox	id 6892	has been killed
+16.08.2019 21:32:22	 firefox	id 8448	has been killed
+16.08.2019 21:32:22	 firefox	id 13232	has been killed
+16.08.2019 21:32:22	 firefox	id 10592	has been killed
+16.08.2019 21:32:22	 firefox	id 2260	has been killed
+
+16.08.2019 21:32:39	 explorer	id 2268	has been killed
+16.08.2019 21:32:45	 explorer	id 14200	has been killed
+16.08.2019 21:32:51	 explorer	id 8688	has been killed
+16.08.2019 21:32:57	 explorer	id 10268	has been killed
+16.08.2019 21:33:03	 explorer	id 6596	has been killed
+
+16.08.2019 21:35:30	 firefox	id 11172	has been killed
+16.08.2019 21:35:30	 firefox	id 9432	has been killed
+16.08.2019 21:35:30	 firefox	id 12872	has been killed
+16.08.2019 21:35:30	 firefox	id 12068	has been killed
+16.08.2019 21:35:30	 firefox	id 2680	has been killed
+16.08.2019 21:35:30	 firefox	id 1344	has been killed
+16.08.2019 21:35:30	 firefox	id 2620	has been killed
+
+
+16.08.2019 22:10:34	 firefox	id 10308	has been killed
+16.08.2019 22:10:34	 firefox	id 2436	has been killed
+16.08.2019 22:10:34	 firefox	id 6744	has been killed
+16.08.2019 22:10:34	 firefox	id 7712	has been killed
+16.08.2019 22:10:34	 firefox	id 2404	has been killed
+16.08.2019 22:10:34	 firefox	id 4952	has been killed
+16.08.2019 22:10:34	 firefox	id 10960	has been killed
+16.08.2019 22:10:34	 firefox	id 13972	has been killed
+16.08.2019 22:10:34	 firefox	id 4464	has been killed
+16.08.2019 22:10:34	 firefox	id 11744	has been killed
+16.08.2019 22:10:34	 firefox	id 11096	has been killed
+
+
+16.08.2019 22:23:07	 firefox	id 12916	has been killed
+16.08.2019 22:23:07	 firefox	id 8464	has been killed
+16.08.2019 22:23:07	 firefox	id 4128	has been killed
+16.08.2019 22:23:07	 firefox	id 6696	has been killed
+16.08.2019 22:23:07	 firefox	id 5800	has been killed
+16.08.2019 22:23:07	 firefox	id 12848	has been killed
+16.08.2019 22:23:07	 firefox	id 10844	has been killed
+16.08.2019 22:23:07	 firefox	id 248	has been killed
+
+17.08.2019 16:12:54	 firefox	id 12860	has been killed
+17.08.2019 16:12:54	 firefox	id 1128	has been killed
+17.08.2019 16:12:54	 firefox	id 5852	has been killed
+17.08.2019 16:12:54	 firefox	id 11816	has been killed
+17.08.2019 16:12:54	 firefox	id 9164	has been killed
+17.08.2019 16:12:54	 firefox	id 4380	has been killed
+
+17.08.2019 16:24:32	 firefox	id 13320	has been killed
+17.08.2019 16:24:32	 firefox	id 13248	has been killed
+17.08.2019 16:24:32	 firefox	id 14096	has been killed
+17.08.2019 16:24:32	 firefox	id 9284	has been killed
+17.08.2019 16:24:32	 firefox	id 6448	has been killed
+17.08.2019 16:24:32	 firefox	id 14668	has been killed
+
+17.08.2019 16:26:55	 firefox	id 1076	has been killed
+17.08.2019 16:26:55	 firefox	id 10560	has been killed
+17.08.2019 16:26:55	 firefox	id 14428	has been killed
+17.08.2019 16:26:55	 firefox	id 12084	has been killed
+17.08.2019 16:26:55	 firefox	id 6148	has been killed

@@ -1,0 +1,7 @@
+C:\Users\splas\source\repos\monitor\monitor\bin\Debug\monitor.exe.config
+C:\Users\splas\source\repos\monitor\monitor\bin\Debug\monitor.exe
+C:\Users\splas\source\repos\monitor\monitor\bin\Debug\monitor.pdb
+C:\Users\splas\source\repos\monitor\monitor\obj\Debug\monitor.csproj.CoreCompileInputs.cache
+C:\Users\splas\source\repos\monitor\monitor\obj\Debug\monitor.exe
+C:\Users\splas\source\repos\monitor\monitor\obj\Debug\monitor.pdb
+C:\Users\splas\source\repos\monitor\monitor\obj\Debug\monitor.csprojAssemblyReference.cache
